@@ -1,3 +1,1 @@
-# distal
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/mlenarciak/distal)
+# distal v0.1
