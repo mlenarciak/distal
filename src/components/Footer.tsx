@@ -16,27 +16,6 @@ const Footer: React.FC = () => {
               Bridging the gap between data seekers and digitizers.
             </p>
             <div className="flex space-x-4">
-              <a 
-                href="#" 
-                className="text-gray-300 hover:text-white transition duration-200"
-                aria-label="Github"
-              >
-                <Github size={20} />
-              </a>
-              <a 
-                href="#" 
-                className="text-gray-300 hover:text-white transition duration-200"
-                aria-label="Twitter"
-              >
-                <Twitter size={20} />
-              </a>
-              <a 
-                href="#" 
-                className="text-gray-300 hover:text-white transition duration-200"
-                aria-label="LinkedIn"
-              >
-                <Linkedin size={20} />
-              </a>
             </div>
           </div>
 

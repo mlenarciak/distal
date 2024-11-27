@@ -10,7 +10,7 @@ const JobListings: React.FC = () => {
   ];
 
   return (
-    <div>
+    <div className="mb-32">
       <h1 className="text-3xl font-bold mb-6">Job Listings</h1>
       
       <div className="mb-8 flex items-center">
